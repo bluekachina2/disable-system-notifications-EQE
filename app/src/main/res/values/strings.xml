@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification Unlock</string>
+    <string name="xposed_description">Unlocks grayed-out (non-blockable) notification toggles system-wide</string>
+</resources>

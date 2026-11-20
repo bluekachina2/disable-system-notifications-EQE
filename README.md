@@ -3,6 +3,7 @@
 Unlocks grayed-out / non-blockable notification toggles system-wide.
 
 Hooks:
+- `android` also drops all notifications from packages listed in `DROP` (Hook.java), default `com.motorola.android.provisioning`
 - `android` (system_server): NotificationChannel lock flags
 - `com.android.settings`: channel/app toggle checks
 
